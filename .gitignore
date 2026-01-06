@@ -1,0 +1,8 @@
+__pycache__
+*.pt
+*.json
+.DS_STORE
+runs/
+weights/
+/venv
+wandb/
