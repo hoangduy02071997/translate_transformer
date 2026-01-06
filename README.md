@@ -33,3 +33,16 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### Execute training
+```bash
+python train.py
+```
+
+### Configs
+```bash
+num_epochs: int number of epoch training loop
+```
+
+### Run for inference & Attention Chart
+Run in jupiter notebook at file has *.ipynb
